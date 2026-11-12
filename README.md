@@ -24,3 +24,8 @@ Este é meu primeiro projeto prático durante minha jornada de estudos em Salesf
 - Desenvolver aplicações com Apex.
 - Construir projetos para meu portfólio.
 
+## Funcionalidades futuras
+
+- Cadastro de clientes.
+- Gerenciamento de oportunidades comerciais.
+- Controle de atendimentos.
