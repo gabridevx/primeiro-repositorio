@@ -29,3 +29,12 @@ Este é meu primeiro projeto prático durante minha jornada de estudos em Salesf
 - Cadastro de clientes.
 - Gerenciamento de oportunidades comerciais.
 - Controle de atendimentos.
+
+## Cadastro de clientes
+
+O sistema deverá permitir:
+
+- Cadastrar novos clientes.
+- Consultar clientes cadastrados.
+- Atualizar informações dos clientes.
+- Excluir clientes.
